@@ -1,7 +1,3 @@
-Creating a good README file is essential for effectively communicating your project to others. Here's a template you can use for your Heartbeat Harmony Analyzer project:
-
----
-
 # Heartbeat Harmony Analyzer
 
 ## Overview
